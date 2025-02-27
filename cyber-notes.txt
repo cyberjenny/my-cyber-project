@@ -1,0 +1,2 @@
+echo "My first GitHub file! Learning Git and GitHub on macOS. 🚀" > new-folder/cyber-notes.txt
+My first GitHub file! Learning Git and GitHub on macOS. 🚀
